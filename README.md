@@ -1,5 +1,5 @@
 
-# Pyhon Google Drive
+# Python Google Drive
 
 Automatização de upload de arquivos pro Google através de scripts em python com o Google API.
 
