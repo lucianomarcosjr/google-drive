@@ -1,7 +1,7 @@
 
 # Pyhon Google Drive
 
-Automatização de planilhas do Google através de scripts em python com as API do Google.
+Automatização de upload de arquivos pro Google através de scripts em python com o Google API.
 
 ## Instalação
 
